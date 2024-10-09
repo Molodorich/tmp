@@ -9,10 +9,5 @@
   } ],
   "lang": "ru",
   "name": "Погода",
-  "start_url": "https://yandex.ru/pogoda",
-  "yandex": {
-    "app_version": "20220708.1158",
-    "manifest_version": 1,
-    "splash_screen_color": "#fff"
-  }
+  "start_url": "https://yandex.ru/pogoda"
 }
